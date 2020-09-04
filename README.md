@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# learn-nuxt-app
-=======
 # learn-nuxt-app
 
 ## Build Setup
